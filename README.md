@@ -25,11 +25,11 @@ Atualmente, estou trabalhando em alguns projetos pessoais para consolidar meus c
 
 ## 🌟 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassantossh&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-santos-developpeur&layout=compact)
 
 ## 📊 Mapa de Commits
 
-![stats_perfil](https://github-readme-stats.vercel.app/api?username=lucassantossh&show_icons=true&theme=radical)
+![stats_perfil](https://github-readme-stats.vercel.app/api?username=lucas-santos-developpeur&show_icons=true&theme=radical)
 
 ## 🌍 Interesses
 
