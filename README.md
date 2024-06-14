@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas Santos! 👋
+# Olá, eu sou o **Lucas Santos**! 👋
 
 Sou um desenvolvedor web front-end apaixonado por criar experiências incríveis para a web. Atualmente, estou mergulhando no mundo da engenharia de software enquanto continuo aprimorando minhas habilidades em JavaScript e explorando tecnologias como Next.js, Tailwind CSS e Prisma ORM.
 
@@ -40,5 +40,7 @@ Além da programação, adoro café, astronomia e ouvir músicas dos anos 90 enq
 Se você estiver interessado em colaborar em projetos ou apenas trocar ideias, sinta-se à vontade para me enviar uma mensagem ou me seguir nas redes sociais:
 
 - [LinkedIn](https://www.linkedin.com/in/lucas-santos-developer)
+- [Portfólio](https://www.lucassantosdeveloppeur.com)
+- [Instagram](https://www.instagram.com/lucassantossh)
 
 Vamos construir algo incrível juntos! ✨
